@@ -17,3 +17,5 @@ Nos deparamos com uma situação que como é um sistema único, existe algumas p
 Para isso, tivemos que conceder acesso a um dos líderes de um grupo, fazendo a troca de MEMBER para OWNER, para que o mesmo conseguisse fazer as alterações necessárias dentro do reporitório. 
 Assim sendo: 
 ![alt text](areadetrabalho/git1.jpeg "Alteração de permissão do usuário")
+
+![Screenshot](git1.jpeg)
